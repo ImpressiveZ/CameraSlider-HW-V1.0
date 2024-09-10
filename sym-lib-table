@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 00_Pj_MotSlider)(type Legacy)(uri ${KIPRJMOD}/Pj_Library_MotSlider.lib)(options "")(descr ""))
+)
